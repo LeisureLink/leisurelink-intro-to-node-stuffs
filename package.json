@@ -1,0 +1,14 @@
+{
+  "name": "leisurelink-intro-to-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "awesome-sauce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-pundits": "^1.0.2"
+  }
+}
